@@ -1,4 +1,4 @@
-0x08python-more_classes_and_objhttps://camo.githubusercontent.com/f604fac3f36aa41bfbe01cec46423a65292e7e4223be8635ebffa2e5c25e953f/68747470733a2f2f656469746f722e616e616c79746963737669646879612e636f6d2f75706c6f6164732f3132393835636c6173732d6f626a6563742d66656174757265642d696d6167652e706e67ect
+0x08python-more_classes_and_objhttps:
 
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
